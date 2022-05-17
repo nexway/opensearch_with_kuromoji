@@ -1,0 +1,1 @@
+# opensearch_with_kuromoji
